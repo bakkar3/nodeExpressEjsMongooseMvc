@@ -1,0 +1,1 @@
+mongoimport --db mongoConference --collection sponsors --type json --file conferenceSponsors.json --jsonArray
